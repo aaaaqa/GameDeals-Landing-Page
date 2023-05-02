@@ -11,7 +11,7 @@
   }
   
   .header {
-    background-color: #575757;
+    background-color: #965fd4;
     height: 80px;
     position: fixed;
     width: 100%;
@@ -60,7 +60,7 @@
   
   .nav-menu-link:hover,
   .nav-menu-link_active {
-    background-color: #333333;
+    background-color: #734f9a;
     transition: 0.5s;
   }
   
@@ -90,7 +90,7 @@
     width: 45%;
     display: flex;
     align-items: center;
-    background-color: #575757;
+    background-color: #734f9a;
     padding: 20px;
     border-radius: 0% 50px 50px 0%;
   }
@@ -115,8 +115,9 @@
   }
   
   .AboutUs {
-    background-color: gray;
+    background-color: #734f9a;
     display: flex;
+    color: #1d1a2f;
   }
 
   .AboutUs-grid {
@@ -212,7 +213,7 @@
   }
   
   .ContactUs {
-    background-color: #333333;
+    background-color: #734f9a;
     height: 25%;
   }
 
