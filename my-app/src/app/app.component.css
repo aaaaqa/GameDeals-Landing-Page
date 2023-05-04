@@ -11,7 +11,7 @@
   }
   
   .header {
-    background-color: #965fd4;
+    background-color: #020E27;
     height: 80px;
     position: fixed;
     width: 100%;
@@ -60,7 +60,7 @@
   
   .nav-menu-link:hover,
   .nav-menu-link_active {
-    background-color: #734f9a;
+    background-color: #0ECCF4;
     transition: 0.5s;
   }
   
@@ -90,7 +90,7 @@
     width: 45%;
     display: flex;
     align-items: center;
-    background-color: #734f9a;
+    background-color: #020E27;
     padding: 20px;
     border-radius: 0% 50px 50px 0%;
   }
@@ -115,7 +115,7 @@
   }
   
   .AboutUs {
-    background-color: #734f9a;
+    background-color: #76F2AE;
     display: flex;
     color: #1d1a2f;
   }
@@ -212,8 +212,24 @@
     border-radius: 50%;
   }
   
+  .Pic1 {
+    background-image: url("/assets/img/aaaaqapfp.png");
+  }
+  .Pic2 {
+    background-image: url("/assets/img/elyeet9pfp.png");
+  }
+  .Pic3 {
+    background-image: url("/assets/img/frowsyfrogpfp.png");
+  }
+  .Pic4 {
+    background-image: url("/assets/img/jbenites10pfp.png");
+  }
+  .Pic5 {
+    background-image: url("/assets/img/mache12V2pfp.png");
+  }
+
   .ContactUs {
-    background-color: #734f9a;
+    background-color: #020E27;
     height: 25%;
   }
 
